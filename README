@@ -1,0 +1,5 @@
+Usage:
+
+- Replace VENMO_USERNAME, VENMO_PASSWORD, and OPENAI_API_KEY in main.py
+- Add receipts in .jpeg file format under assets/ (OCR part is somewhat flaky)
+- Run as python3 main.py -> will launch gradio frontend on local URL:  http://127.0.0.1:7860
